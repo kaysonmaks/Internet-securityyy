@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 280%;
+    color: aqua;
+}
+ body{
+    background-image: url( imgonline-com-ua-Resize-69FdXPNzNQ-transformed.jpeg );
+ }
+ .table{
+    width: 300px; /* Ширина таблицы */
+    border: 0% ;
+    margin: auto; /* Выравниваем таблицу по центру окна  */
+    width: 100%;
+ }
+  .two {
+   color: aquamarine;
+    text-align: center;
+    font-size: 160%
+  }
+  h3 {
+    color: aqua;
+    font-size: 200%
+  }
+  .one {
+    font-size: 160%
+  }
+  a{
+    color: aquamarine;
+  }
+  .video {
+    color: black;
+  }
